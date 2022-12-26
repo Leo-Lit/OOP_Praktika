@@ -1,0 +1,4 @@
+﻿  OOP_PR3.cpp
+C:\Users\LitLD\OneDrive\Рабочий стол\Новая папка (3)\ООП\OOP_PR3\OOP_PR3\OOP_PR3.cpp(11,5): error C2535: Collection::Collection(void): функция-член уже определена или объявлена
+C:\Users\LitLD\OneDrive\Рабочий стол\Новая папка (3)\ООП\OOP_PR3\OOP_PR3\OOP_PR3.cpp(10,5): message : см. объявление "Collection::Collection"
+C:\Users\LitLD\OneDrive\Рабочий стол\Новая папка (3)\ООП\OOP_PR3\OOP_PR3\OOP_PR3.cpp(11,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
